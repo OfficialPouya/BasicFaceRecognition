@@ -6,7 +6,7 @@ I am using OpenCV.
 
 # Demo
 
-![](ezgif.com-crop.gif)
+![](demo.gif)
 
 # Libraries Used
 
